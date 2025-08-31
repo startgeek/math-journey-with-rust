@@ -1,7 +1,5 @@
 [workspace]
 members = [
     "lesson01-mod-arith",
-    # "lesson02-rsa",
-    # "lesson03-elliptic-curves",
-    # "lesson04-zkp"
+    "lesson02-number-theory"
 ]
